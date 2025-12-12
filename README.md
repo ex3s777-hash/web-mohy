@@ -1,2 +1,2 @@
 # web-mohy
-program for manage request 
+program for calcuate numbers
